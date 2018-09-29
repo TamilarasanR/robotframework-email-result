@@ -46,7 +46,7 @@ Send email with robotframework result (Suite, Test, Keyword and Execution time)
 
  __SAMPLE EMAIL__
 
- ![Screenshot](sample.jpg)
+ ![Screenshot](sample.JPG)
 
  ---
 
@@ -79,7 +79,7 @@ Send email with robotframework result (Suite, Test, Keyword and Execution time)
      'DateTime',
     ] 
 ---
-- If you face any issue while using gmail. Turn off 'Allow less secure apps' from here [link](https://myaccount.google.com/lesssecureapps?pli=1)
+- If you facing authorization issues while using gmail. Turn off 'Allow less secure apps' [link](https://myaccount.google.com/lesssecureapps?pli=1)
 ---
     >  STAR repo to appreciate
 ---
