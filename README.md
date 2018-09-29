@@ -14,7 +14,7 @@ Send email with robotframework result (Suite, Test, Keyword and Execution time)
 
 *How to use in project:*
 
-1. Download __robotemail.py__ from here [link](https://github.com/adiralashiva8/robotframework-metrics/releases/download/v3.0/robotemail.py)
+1. Download __robotemail.py__ from here [link](https://github.com/adiralashiva8/robotframework-email-result/releases/download/v0.1/robotemail.py)
 
     > Repo has some extra files (.html and .xml for testing) - I suggest to download from link
 
