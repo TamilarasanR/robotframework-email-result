@@ -78,7 +78,8 @@ Send email with robotframework result (Suite, Test, Keyword and Execution time)
      'Collections',
      'DateTime',
     ] 
-    ``` 
+---
+- If you face any issue while using gmail. Turn off 'Allow less secure apps' from here [link](https://myaccount.google.com/lesssecureapps?pli=1)
 ---
     >  STAR repo to appreciate
 ---
